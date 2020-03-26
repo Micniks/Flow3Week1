@@ -9,29 +9,31 @@ README setup follow guide from https://docs.google.com/document/d/1nWjxWLepoW1-Y
 
 *3. Which of the weekly learnings goals were covered by your solution*
 
-## Monday
+## Tuesday
 -----
-1. Done with all except the colored parts of Props-2
+1. Done with all, except the colored parts of Props-2
 2. 01-tuesday-exercises
 3. Introduction to react, Object Destructuring & the spread syntax
 
-## Tuesday
------
-1. 
-2. 
-3. 
-
 ## Wednesday
 -----
-1. 
-2. 
-3. 
+1. Done with all, excluding the colored parts
+2. 02-wednesday-exercises. 
+The assignment for 'State and Events with React' is in the folder 'states-and-events'.
+The assignment for 'List and Keys ' is in the folder 'list-and-keys'.
+
+3. React Components, UseState, UseEffect
 
 ## Thursday
 -----
-1. 
-2. 
-3. 
+1. Done with all, excluding the colored parts
+2. 03-thursday-exercises.
+The Assignment 'Forms with React' is in the folder 'thursday-app'.
+The Assignment 'Lifting State Up - Part 1' is in the folder 'thursday-lifting'.
+The Assignment 'Lifting State Up - Part 2' is in the folder 'thursday-lifting-2'.
+The Assignment 'API Interaction using fetch' is in the folder 'react-crud-rest-exercise-master'.
+
+3. React Components, Lifting, fetch, forms
 
 ## Friday
 -----
