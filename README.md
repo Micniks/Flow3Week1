@@ -19,7 +19,9 @@ README setup follow guide from https://docs.google.com/document/d/1nWjxWLepoW1-Y
 -----
 1. Done with all, excluding the colored parts
 2. 02-wednesday-exercises. 
+
 The assignment for 'State and Events with React' is in the folder 'states-and-events'.
+
 The assignment for 'List and Keys ' is in the folder 'list-and-keys'.
 
 3. React Components, UseState, UseEffect
@@ -28,9 +30,13 @@ The assignment for 'List and Keys ' is in the folder 'list-and-keys'.
 -----
 1. Done with all, excluding the colored parts
 2. 03-thursday-exercises.
+
 The Assignment 'Forms with React' is in the folder 'thursday-app'.
+
 The Assignment 'Lifting State Up - Part 1' is in the folder 'thursday-lifting'.
+
 The Assignment 'Lifting State Up - Part 2' is in the folder 'thursday-lifting-2'.
+
 The Assignment 'API Interaction using fetch' is in the folder 'react-crud-rest-exercise-master'.
 
 3. React Components, Lifting, fetch, forms
