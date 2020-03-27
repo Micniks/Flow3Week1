@@ -43,6 +43,6 @@ The Assignment 'API Interaction using fetch' is in the folder 'react-crud-rest-e
 
 ## Friday
 -----
-1. 
-2. 
-3. 
+1. Done with 1-5. General part should not be handed in, according to teachers.
+2. 04-friday-exercises
+3. React Components, Fetch, Lifting, UseState, UseEffect
